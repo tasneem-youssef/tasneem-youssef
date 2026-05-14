@@ -27,6 +27,7 @@ I am constantly growing and expanding my toolkit. Currently, I am focused on mas
 
 ## 🌟 Standout Project: My Portfolio
 I built a professional portfolio using **React.js** to showcase my journey and projects.
+- [Project Preview] <img src="./Landing page.png"/>
 - [View Live Demo] <a href="https://portfolio-76.netlify.app/">click Here</a> | [View Code] <a href="https://github.com/Nemo97-76/portfolio-v1">click here</a>
 - *Designed with a focus on component reusability and clean UI.*
 
