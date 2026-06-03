@@ -27,10 +27,10 @@ I am constantly growing and expanding my toolkit. Currently, I am focused on mas
 
 ## 🌟 Standout Project: My Portfolio
 I built a professional portfolio using **React.js** to showcase my journey and projects.
-- [Project Preview] <img src="./Landing page.png"/>
-- [View Live Demo] <a href="https://portfolio-76.netlify.app/">click Here</a> | [View Code] <a href="https://github.com/Nemo97-76/portfolio-v1">click here</a>
+- [Project Preview] <a href="https://tasneem-youssef.github.io/portfolio-v1/" target="_blank"><img src="/poster.jpeg"/></a>
+- [View Live Demo] <a href="https://tasneem-youssef.github.io/portfolio-v1/" target="_blank">click Here</a> | [View Code] <a href="https://github.com/tasneem-youssef/portfolio-v1" target="_blank">click here</a>
 - *Designed with a focus on component reusability and clean UI.*
 
 ## 📈 Let's Connect
 - 📧 **Email**: [tasneemyoussef61@gmail.com](mailto:tasneemyoussef61@gmail.com)
-- 🔗 **LinkedIn**:<a href="https://www.linkedin.com/in/tasneem-youssef-770708278/"> tasneem youssef</a>
+- 🔗 **LinkedIn**:<a href="https://www.linkedin.com/in/tasneem-youssef-react/"> tasneem youssef</a>
